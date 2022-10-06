@@ -27,10 +27,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About My Next.Js Site
 
-<img width="1440" alt="Screen Shot 2022-10-06 at 4 51 55 AM" src="https://user-images.githubusercontent.com/90402466/194270515-14cef695-e49d-43fc-99db-5067a52cfbfe.png">
+<img width="1440" alt="Screen Shot 2022-10-06 at 5 39 34 AM" src="https://user-images.githubusercontent.com/90402466/194280372-524b5531-f159-4b21-aa45-75b25e8f5440.png">
 
-
-[My Next.js Site](https://cheers-to-you-xnlr.vercel.app/login?redirectTo=%2Fhome) (try the live demo) is an app that showcases the basic powers of Next.js 
+[My Next.js Site](https://next-port-eight.vercel.app/) (try the live demo) is an app that showcases the basic powers of Next.js 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
